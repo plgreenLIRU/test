@@ -2,3 +2,5 @@ Line 1
 User 1 has changed line 2
 User 2 changes line 3
 Line 4
+Line 5
+Line 6
